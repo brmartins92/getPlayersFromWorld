@@ -4,7 +4,7 @@
 
 Using [Puppeteer](https://pptr.dev/) as a web crawler to get [Tibia](https://tibia.com/) world players.
 
-`git clone git@github.com:brmartins92/getPlayersFromWorld.git`
+`git clone https://github.com/brmartins92/getPlayersFromWorld.git`
 
 `cd getPlayersFromWorld && yarn` or `cd getPlayersFromWorld && npm install`
 
